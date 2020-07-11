@@ -1,16 +1,5 @@
 # COVID19
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    An application in flutter which gives the real time count patient of the the COVID19 patient. 
+    It tells the recoverd , death and active patient count in the specific country and it also gives the count of the patient in the specific state in India. It also tells 
+the confirmed cases in a particular district of all states in India.
+    It also gives the news related to the covid19 virus and the lockdown in India.
